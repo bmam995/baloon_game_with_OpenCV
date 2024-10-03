@@ -47,11 +47,3 @@ MediaPipe: A framework for building multimodal applied machine learning pipeline
 Pygame: A cross-platform set of Python modules designed for writing video games.
 OpenCV: An open-source computer vision and machine learning software library.
 
-
-### Instructions for Adding the Image:
-1. Save a screenshot of your game as `gameplay.png` in the same directory as your README file.
-2. Ensure that the filename in the README matches the actual file name.
-
-### Important Notes:
-- Replace `your-username` in the clone command with your actual GitHub username.
-- Feel free to modify the content to better fit your personal style or add more specific details about your project.
