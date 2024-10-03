@@ -29,7 +29,7 @@ cd balloon-game
 python main.py
 ```
 
-##Controls
+## Controls
 Popping Balloons: Move your hand to touch the falling balloons. The game tracks your index finger for accurate detection.
 Future Enhancements
 Adding more levels with varying speeds and difficulty.
@@ -39,10 +39,10 @@ Adding additional balloon types and effects.
 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Ensure to follow best practices and document your changes.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgements
+## Acknowledgements
 MediaPipe: A framework for building multimodal applied machine learning pipelines.
 Pygame: A cross-platform set of Python modules designed for writing video games.
 OpenCV: An open-source computer vision and machine learning software library.
